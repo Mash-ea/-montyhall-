@@ -1,0 +1,13 @@
+Package: montyhall
+Title: Package creates a new Monty Hall Problem 
+Version: 0.0.0.9000
+Authors@R: 
+    person("Edward", "Mashingaidze", , "emashing@asu.edu", role = c("aut", "cre"),
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: When mathematical calculations are tedious, A reliably     effective and efficient way to tackle these analytical snags is to code a program to solve it for us. We achieve this by creating a simulation program that allows us to play the game a thousand times recording the results for the two strategies- staying with the initial door or switching. Switching is deemed superior.
+License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
+    license
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.3
+
